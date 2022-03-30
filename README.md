@@ -1,12 +1,8 @@
-# Review of continuum modelling for lithium-ion batteries
-Supporting material for the continuum modelling review paper.
+# A Continuum of Physics-Based Lithium-Ion Battery Models Reviewed
+Supporting material for the review paper
 
-The repository is organised following the different sections of the paper.
+> Insert ref
 
-## Section 2 - From full model to DFN
+This repository contains various Jupyter notebooks to run some of the models presented in the review.
 
-## Section 3 - From DFN to SPM
-
-## Section 4 - Model comparison and discussion
-
-## Section 5 - Possible model extensions
+* 
