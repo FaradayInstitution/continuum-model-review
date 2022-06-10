@@ -11,6 +11,13 @@ This repository contains various Jupyter notebooks to run some of the models pre
 * [exploring_dimensionality.ipynb](exploring_dimensionality.ipynb): compare the effects of dimensionality for thermal models.
 * [overpotentials.ipynb](overpotentials.ipynb): plot the overpotentials for the various models.
 * [particle_plot.ipynb](particle_plot.ipynb): plot the lithium concentration in the particles.
-* [SPM.ipynb](SPM.ipynb): simulate the Single Particle Model.
+
+To run the notebooks you first will have to install PyBaMM (see instructions below) and then launch the notebooks. You can do this locally by running the command
+```
+jupyter notebook
+```
+from your local repository, or online using [Google Colab](https://colab.research.google.com/github/FaradayInstitution/continuum-model-review/blob/main/).
 
 ## Installation instructions
+To run these notebooks you need to install PyBaMM. Here you can find the instructions for [Linux & MacOS](https://pybamm.readthedocs.io/en/latest/install/GNU-linux.html) and for [Windows](https://pybamm.readthedocs.io/en/latest/install/windows.html).
+
