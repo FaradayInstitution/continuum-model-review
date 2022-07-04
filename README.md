@@ -18,6 +18,8 @@ jupyter notebook
 ```
 from your local repository, or online using [Google Colab](https://colab.research.google.com/github/FaradayInstitution/continuum-model-review/blob/main/).
 
+The folder `COMSOL_models` contains the COMSOL files to run a 2D example of the microscale model. More details can be found in the README of the folder.
+
 ## Installation instructions
 To run these notebooks you need to install PyBaMM. Here you can find the instructions for [Linux & MacOS](https://pybamm.readthedocs.io/en/latest/install/GNU-linux.html) and for [Windows](https://pybamm.readthedocs.io/en/latest/install/windows.html).
 
