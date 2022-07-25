@@ -1,7 +1,7 @@
 # A Continuum of Physics-Based Lithium-Ion Battery Models Reviewed
 Supporting material for the review paper
 
-> F. Brosa Planella, W. Ai, A. Boyce, A. Ghosh, I. Korotkin, S. Sahu, V. Sulzer, R. Timms, T. Tranter, M. Zyskin, S. Cooper, J.S. Edge, J.M. Foster, M. Marinescu, B. Wu, G. Richardson, [A continuum of physics-based lithium-ion battery models reviewed](https://doi.org/10.1088/2516-1083/ac7d31), Progress in Energy. (2022).
+> F. Brosa Planella, W. Ai, A.M. Boyce, A. Ghosh, I. Korotkin, S. Sahu, V. Sulzer, R. Timms, T.G. Tranter, M. Zyskin, S.J. Cooper, J.S. Edge, J.M. Foster, M. Marinescu, B. Wu, G. Richardson, [A continuum of physics-based lithium-ion battery models reviewed](https://doi.org/10.1088/2516-1083/ac7d31), Progress in Energy. 4 (2022) 042003.
 
 This repository contains various Jupyter notebooks to run some of the models presented in the review.
 
